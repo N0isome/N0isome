@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<rect width="1200" height="330" rx="28" fill="#f2efe9"/>
+<rect x="0" y="0" width="18" height="330" rx="9" fill="#8a1717"/>
+<text x="62" y="58" fill="#77736d" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">04 / SELECTED WORK</text>
+<text x="62" y="129" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700">Fr3do</text>
+<text x="62" y="169" fill="#8a1717" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">Desktop audio utility</text>
+<text x="62" y="215" fill="#5d5c58" font-family="Arial, Helvetica, sans-serif" font-size="17">Download, conversion and stem separation workflow.</text>
+<line x1="62" y1="259" x2="670" y2="259" stroke="#d2cec6"/>
+<text x="62" y="295" fill="#6d6963" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">PYTHON / FFMPEG / YT-DLP / DEMUCS</text>
+<rect x="772" y="83" width="298" height="170" rx="18" fill="#111"/>
+<path d="M798 170 L812 150 L826 191 L840 126 L854 183 L868 143 L882 201 L896 119 L910 176 L924 155 L938 188 L952 134 L966 196 L980 145 L994 181 L1008 159 L1022 170 L1040 150" fill="none" stroke="#8a1717" stroke-width="4" stroke-linecap="round"/>
+<rect x="798" y="218" width="216" height="9" rx="5" fill="#2f2f2f"/><rect x="798" y="218" width="144" height="9" rx="5" fill="#8a1717"/>
+</svg>
