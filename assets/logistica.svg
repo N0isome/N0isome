@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<rect width="1200" height="330" rx="28" fill="#f2efe9"/>
+<rect x="0" y="0" width="18" height="330" rx="9" fill="#667260"/>
+<text x="62" y="58" fill="#77736d" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">05 / SELECTED WORK</text>
+<text x="62" y="129" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700">Logistics Web</text>
+<text x="62" y="169" fill="#667260" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">B2B commercial demo</text>
+<text x="62" y="215" fill="#5d5c58" font-family="Arial, Helvetica, sans-serif" font-size="17">Services, coverage and structured quotation experience.</text>
+<line x1="62" y1="259" x2="670" y2="259" stroke="#d2cec6"/>
+<text x="62" y="295" fill="#6d6963" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">WEB / B2B / FORMS / RESPONSIVE</text>
+<path d="M792 216 C830 120 901 250 948 132 C980 62 1025 96 1060 118" fill="none" stroke="#667260" stroke-width="4" stroke-dasharray="10 10"/>
+<circle cx="792" cy="216" r="13" fill="#667260"/><circle cx="948" cy="132" r="13" fill="#667260"/><circle cx="1060" cy="118" r="13" fill="#667260"/>
+<rect x="805" y="77" width="110" height="56" rx="10" fill="#fff" stroke="#d8d3ca"/>
+<rect x="829" y="95" width="62" height="8" rx="4" fill="#bbb7af"/><rect x="829" y="111" width="44" height="8" rx="4" fill="#667260" opacity=".55"/>
+</svg>
