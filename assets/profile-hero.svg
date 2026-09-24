@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<rect width="1200" height="360" fill="#0d0d0d"/>
+<circle cx="1010" cy="70" r="210" fill="none" stroke="#8c8fbf" stroke-width="2" opacity=".25"/>
+<circle cx="1010" cy="70" r="155" fill="none" stroke="#8c8fbf" stroke-width="2" opacity=".35"/>
+<circle cx="1010" cy="70" r="100" fill="none" stroke="#8c8fbf" stroke-width="2" opacity=".55"/>
+<rect x="74" y="62" width="10" height="10" fill="#8c8fbf"/>
+<text x="104" y="73" fill="#bcbcb8" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">PORTFOLIO / 2026</text>
+<text x="74" y="160" fill="#f4f1eb" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">Nicolás Cortez</text>
+<text x="74" y="214" fill="#8c8fbf" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">Web · Automation · Support Engineering</text>
+<text x="74" y="270" fill="#aaa9a5" font-family="Arial, Helvetica, sans-serif" font-size="19">Practical digital systems with a strong visual layer.</text>
+<line x1="74" y1="308" x2="540" y2="308" stroke="#323232"/>
+<text x="74" y="335" fill="#6d6d68" font-family="Arial, Helvetica, sans-serif" font-size="14">SANTIAGO · CHILE</text>
+</svg>
